@@ -1,0 +1,6 @@
+{
+  "name": "Data Exchange Plugin Hub",
+  "description": "A comprehensive plugin management system for data exchange platforms, supporting JAR package lifecycle and configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
